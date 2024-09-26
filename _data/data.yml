@@ -94,26 +94,26 @@ skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Lead Generation & Data Scraping
+      - name: Lead Generation & Cold Voice Outreach
         level: 95%
 
-      - name: Machine Learning & AI
-        level: 90%
+      - name: Community / Product Management
+        level: 85%
 
-      - name: Automated Email Marketing
-        level: 90%
+      - name: Sales Process Support & Closing
+        level: 80%
 
-      - name: CRM & Sales Automation
-        level: 90%
+      - name: Marketing & Sales Automation
+        level: 75%
 
       - name: Web Development & CMS
-        level: 90%
+        level: 60%
 
       - name: Programming & Automation
-        level: 85%
+        level: 50%
 
       - name: API Integration & Cloud Services
-        level: 85%
+        level: 45%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
