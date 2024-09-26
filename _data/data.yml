@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Mick Fine
     tagline: Technical Sales
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: mick.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mick@mickfine.com
@@ -58,33 +58,12 @@ career-profile:
       marketing, and growth in healthcare and technology industries. 
 
       Specializes in scaling sales teams, optimizing sales funnels, and 
-      driving business growth through automation and innovation. 
-      
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      driving business growth through automation and innovation.
+
+      Expertise in leveraging technical tools to boost revenue growth, 
+      improve customer acquisition and enhance client retention. 
+
+
 
 experiences:
     title: Experiences
