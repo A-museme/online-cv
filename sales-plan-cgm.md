@@ -77,7 +77,7 @@ title: Sales Plan CGM
 I'll continue regular individual meetings with team members, providing a platform for their feedback and ensuring they feel supported. These meetings will help me identify personal pain points and opportunities for development.
 
 **Weekly Sales Meetings**:  
-Starting in week 2, I'll introduce weekly sales meetings to build on existing efforts and give the sales team an opportunity to share input before we make any changes. My goal is to emphasize collaboration and transparency, ensuring the team feels they're part of the improvement process.
+Starting in week 2, I'll introduce weekly sales meetings to build on existing efforts by Rob and give the sales team an opportunity to share input before we make any changes. My goal is to emphasize collaboration and transparency, ensuring the team feels they're part of the improvement process.
 
 **Leadership & Change Management**:  
 My leadership approach focuses on empowering the sales team while guiding necessary changes. I'll position myself as both a leader and a peer working alongside them, so the team knows I'm here to support them. At the same time, I'll expect them to push for new opportunities and embrace the efficient model we'll implement together.
