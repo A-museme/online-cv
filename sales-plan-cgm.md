@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Custom Page
+layout: sales-plan-cgm
+title: Sales Plan CGM
 ---
 
 ### **Days 1-30: Assess and Analyze**
